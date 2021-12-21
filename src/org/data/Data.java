@@ -6,4 +6,8 @@ public class Data {
 		
 		System.out.println("Add method");
 	}
+	
+	private void empId() {
+		System.out.println("Emp Id : 123");
+	}
 }
