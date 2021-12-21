@@ -14,4 +14,8 @@ public class Data {
 
 		System.out.println("Add method");
 	}
+	
+	public static void main(String[] args) {
+		
+	}
 }
